@@ -40,7 +40,7 @@ nmcli connection show
 Çıktıdaki NAME sütununda bağlantınızın adını bulun. Örneğin:
 
 NAME                UUID                                  TYPE      DEVICE
-Wired connection 1  002121d4-94f6-39a9-9d8d-17bd0e0d5c03  ethernet  eth0
+(Buradaki isimi belirteceksiniz)  (Kimlik numarası)  ethernet  eth0
 
 Scripti Çalıştırın: Script çalıştırıldığında, sizden ağ bağlantı adını ve IP değiştirme süresini (saniye) girmeniz istenecektir:
 
